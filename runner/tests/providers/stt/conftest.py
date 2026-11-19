@@ -97,6 +97,7 @@ _STT_KEY_FIELDS = (
     "reson8_api_key",
     "revai_api_key",
     "saidwire_api_key",
+    "deepinfra_api_key",
     "smallest_api_key",
     "soniox_api_key",
     "speechmatics_api_key",
